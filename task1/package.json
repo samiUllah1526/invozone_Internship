@@ -1,0 +1,14 @@
+{
+  "name": "firsttask",
+  "version": "1.0.0",
+  "description": "Code to write os info to a file.",
+  "main": "task1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sami Ullah",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0"
+  }
+}
