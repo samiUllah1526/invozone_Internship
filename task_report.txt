@@ -1,17 +1,20 @@
 
 Git/github
-1)learned the basics og git and github
+1)learned the basics of git and github
 
 
 NodeJS/ JS
-1)Studies V8 engine
-2)learn to export and require core as well as 3rd party packages
-3)understand npm
-4)Promises
-5)Async/await
-6)Peer dependencies
-7)Dev dependencies
-8).env and environment variables
-9)eventEmitter
-10)For loops in JS
-11)let, const, var 
+1. Studies V8 engine
+1. learn to export and require core as well as 3rd party packages
+1. Understand npm
+1. Promises
+1. Async/await
+1. Peer dependencies
+1. Dev dependencies
+1. env and environment variables
+1. premitive andd refrences 
+1. Object destrucing, rest and spread operator
+1. Arrow function
+1. eventEmitter
+1. For loops in JS
+1. let, const, var 
